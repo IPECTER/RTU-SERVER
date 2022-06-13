@@ -1,2 +1,2 @@
-# RTU-SERVER
-《 RTU SERVER 》 : 개발 일지
+# 《 RTU SERVER 》
+
